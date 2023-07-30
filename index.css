@@ -1,0 +1,59 @@
+html ,body {
+    margin: 9px;;
+    padding: 9px;
+    align-items: center;
+    background-color: rgb(255, 253, 253);
+    align-items: center;
+    box-sizing: border-box;
+    background-image:url(https://blog.dashlane.com/wp-content/uploads/2016/02/react-logo-2.png);
+}
+.style-item{
+    list-style: none ;
+    display: flex;
+    align-items: center;
+
+}
+
+.style-item > li {
+    padding: 10px;
+
+}
+img {
+    width: 50px;
+}
+
+.logo-1 {
+    display: flex;
+    justify-content: space-between;
+    background: #efeff0;
+    color: #423d3d;
+    
+    }
+footer {
+        background-color:  #efeff0;
+        color: #131111;
+        font-size: smaller;
+        font-family:'Times New Roman', Times, serif;
+        padding: 7px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    main{
+        background-color: antiquewhite;
+        top : 0rem;
+        padding: 10px;
+        align-items: center;
+    
+    
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+      
+    
